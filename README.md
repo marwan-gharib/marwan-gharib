@@ -2,9 +2,8 @@
 ### 🚀 Flutter Developer | Mobile App Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-gharib/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marwanghareeb@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marwanghareeb146@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marwan-gharib)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight)](https://github.com/marwan-gharib)
 
 ---
 
@@ -15,6 +14,14 @@ I value:
 - Clean, testable, maintainable code
 - Meaningful animations and polished UX
 - Continuous learning and collaboration
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=tokyonight"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -40,41 +47,11 @@ Key tools & libraries:
 
 ---
 
-## 🚀 Featured Projects
-
-### Mind Box
-A modern, fast note-taking app built with Flutter following Clean Architecture. Focused on a delightful UI, local persistence with Sqflite, and optional Firebase sync.
-- Highlights: Clean architecture, animations, tags & search, offline support
-- Tech: Flutter, Dart, Sqflite, Firebase (optional)
-- Repo: https://github.com/marwan-gharib/mind-box
-
-### Another Cool Project
-A Flutter app demonstrating advanced UI animations and state management techniques.
-- Highlights: Complex custom animations, performant list rendering, custom theming
-- Repo: https://github.com/marwan-gharib/another-project
-
-(If you'd like, I can add screenshots, GIFs, or a short demo video for each project.)
-
----
-
 ## ✅ Key highlights
 - Focus on building performant, accessible UIs and smooth animations
 - Experience integrating offline-first storage with cloud sync
 - Familiar with deploying and publishing Android & iOS builds
 - Comfortable writing unit and widget tests for Flutter apps
-
----
-
-## 📦 How to run my Flutter projects (general)
-1. Clone the repo:
-   git clone <repo-url>
-2. Open in VS Code or Android Studio
-3. Install dependencies:
-   flutter pub get
-4. Run on a connected device or emulator:
-   flutter run
-
-For platform-specific build or CI instructions, check each project’s README.
 
 ---
 
@@ -85,16 +62,8 @@ I’m open to freelance projects, short-term contracts, and collaboration on ope
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/marwan-gharib/
-- Email: marwanghareeb@example.com
+- Email: marwanghareeb18@gmail.com
 - GitHub: https://github.com/marwan-gharib
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=tokyonight"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
