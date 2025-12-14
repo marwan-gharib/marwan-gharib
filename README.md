@@ -1,66 +1,101 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Marwan Gharib</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast</h3>
+# 👋 Hi, I'm Marwan Gharib
+### 🚀 Flutter Developer | Mobile App Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-gharib/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marwanghareeb@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/marwan-gharib)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight)](https://github.com/marwan-gharib)
 
 ---
 
 ## 👨‍💻 About Me
-I am a passionate **Flutter Developer** with a strong drive to craft **modern, responsive, and user-friendly mobile apps**.  
-I enjoy solving problems, learning new technologies, and bringing creative ideas to life through code.  
+I’m a passionate Flutter developer who enjoys building clean, responsive, and delightful mobile experiences. I focus on maintainable architecture, fluid UI/UX, and pragmatic testing. I like combining mobile development with backend tools (Firebase, Supabase) and occasionally explore embedded systems for hardware-integrated projects.
 
-💡 I believe in writing **clean, maintainable code** and continuously improving my skills to keep up with the latest industry trends.  
-🔧 With experience in **Flutter, Firebase, Supabase, and embedded systems**, I bring a unique edge to every project.  
-
-*(Yes, I sometimes talk to my IDE… it listens… most of the time 😅)*
+I value:
+- Clean, testable, maintainable code
+- Meaningful animations and polished UX
+- Continuous learning and collaboration
 
 ---
 
-## 🛠️ Tech Stack  
+## 🔭 What I build
+- Cross-platform mobile apps with Flutter (Android & iOS)
+- Offline-first apps with local persistence (Sqflite, Hive)
+- Cloud-connected apps using Firebase & Supabase (Auth, Firestore/Realtime, Storage)
+- Well-architected projects using Clean Architecture / BLoC / Provider / Riverpod
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=dart,c,cpp,java" /><br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,sqflite,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,sqflite,git,github,vscode,androidstudio" />
+</p>
+
+Key tools & libraries:
+- Languages: Dart, C, C++
+- State management: BLoC, Provider, Riverpod
+- Databases: Firebase (Firestore), Sqflite
+- Tools: Git, GitHub, VS Code, Android Studio
+
+---
+
+## 🚀 Featured Projects
+
+### Mind Box
+A modern, fast note-taking app built with Flutter following Clean Architecture. Focused on a delightful UI, local persistence with Sqflite, and optional Firebase sync.
+- Highlights: Clean architecture, animations, tags & search, offline support
+- Tech: Flutter, Dart, Sqflite, Firebase (optional)
+- Repo: https://github.com/marwan-gharib/mind-box
+
+### Another Cool Project
+A Flutter app demonstrating advanced UI animations and state management techniques.
+- Highlights: Complex custom animations, performant list rendering, custom theming
+- Repo: https://github.com/marwan-gharib/another-project
+
+(If you'd like, I can add screenshots, GIFs, or a short demo video for each project.)
+
+---
+
+## ✅ Key highlights
+- Focus on building performant, accessible UIs and smooth animations
+- Experience integrating offline-first storage with cloud sync
+- Familiar with deploying and publishing Android & iOS builds
+- Comfortable writing unit and widget tests for Flutter apps
+
+---
+
+## 📦 How to run my Flutter projects (general)
+1. Clone the repo:
+   git clone <repo-url>
+2. Open in VS Code or Android Studio
+3. Install dependencies:
+   flutter pub get
+4. Run on a connected device or emulator:
+   flutter run
+
+For platform-specific build or CI instructions, check each project’s README.
+
+---
+
+## 🤝 Open to work / Collaboration
+I’m open to freelance projects, short-term contracts, and collaboration on open-source projects—especially if they involve UI/UX, mobile performance, or cross-platform tooling. Send me a message on LinkedIn or an email.
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/marwan-gharib/
+- Email: marwanghareeb@example.com
+- GitHub: https://github.com/marwan-gharib
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=tokyonight"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
-
-### 📱 Mind Box  
-A **modern note-taking app** built with **Flutter** using **Clean Architecture**, **Firebase/Sqflite**, and **animations**.  
-🔗 [GitHub Repository](https://github.com/marwan-gharib/mind-box)
-
-### 📱 Another Cool Project  
-A Flutter app showcasing **advanced UI animations and state management**.  
-🔗 [GitHub Repository](https://github.com/marwan-gharib/another-project)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/marwan-gharib/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:marwanghareeb@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/marwan-gharib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>  
-
----
-
-⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my projects and connect with me.*
+⭐ Thanks for visiting my GitHub profile — feel free to explore my repositories and reach out if you'd like to build something together!
