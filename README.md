@@ -61,7 +61,7 @@ I’m open to freelance projects, short-term contracts, and collaboration on ope
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/marwan-gharib/
+- LinkedIn: https://www.linkedin.com/in/marwan-gharib
 - Email: marwanghareeb18@gmail.com
 - GitHub: https://github.com/marwan-gharib
 
