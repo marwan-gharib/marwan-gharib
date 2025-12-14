@@ -1,44 +1,40 @@
-<div align="center">
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Marwan Gharib</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Enthusiast</h3>
 
-# 👋 Hello, I'm Marwan Gharib
-### Flutter Developer | Mobile App Enthusiast | Problem Solver
+---
+
+## 👨‍💻 About Me
+I am a passionate **Flutter Developer** with a strong drive to craft **modern, responsive, and user-friendly mobile apps**.  
+I enjoy solving problems, learning new technologies, and bringing creative ideas to life through code.  
+
+💡 I believe in writing **clean, maintainable code** and continuously improving my skills to keep up with the latest industry trends.  
+🔧 With experience in **Flutter, Firebase, Supabase, and embedded systems**, I bring a unique edge to every project.  
+
+*(Yes, I sometimes talk to my IDE… it listens… most of the time 😅)*
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=dart,c,cpp,java" /><br>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,sqflite,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-## 📝 About Me
+## 🚀 Featured Projects  
 
-Hi! I'm Marwan, a 17-year-old Flutter developer from Cairo, Egypt.  
-I have a passion for creating beautiful, high-performance mobile apps that people enjoy using.  
-When I'm not coding, I might be experimenting with new Flutter packages or trying to convince my IDE to behave 😅.
+### 📱 Mind Box  
+A **modern note-taking app** built with **Flutter** using **Clean Architecture**, **Firebase/Sqflite**, and **animations**.  
+🔗 [GitHub Repository](https://github.com/marwan-gharib/mind-box)
 
----
-
-## 💻 Skills & Tools
-
-### Languages
-- Dart 🟦
-- C++ 💻
-- Java ☕  
-
-### Mobile & Frameworks
-- Flutter 🐦 (obviously 😎)
-- State Management: Provider, Riverpod, Bloc  
-- Animations & UI: Lottie, Rive, Custom Animations
-
-### Databases & Backend
-- Firebase 🔥 (Auth, Firestore, Realtime Database, Cloud Functions)  
-- Supabase 🟢  
-- SQLite / Sqflite 💾  
-
-### Tools & IDEs
-- VSCode 🖤  
-- Android Studio 🧩  
-- Git & GitHub 🐙  
-- Postman & Insomnia 🛠  
+### 📱 Another Cool Project  
+A Flutter app showcasing **advanced UI animations and state management**.  
+🔗 [GitHub Repository](https://github.com/marwan-gharib/another-project)
 
 ---
 
@@ -51,37 +47,20 @@ When I'm not coding, I might be experimenting with new Flutter packages or tryin
 
 ---
 
-## 💼 Projects
+## 🌐 Connect With Me  
 
-### Mind Box
-- A modern note-taking Flutter app  
-- Features: Clean Architecture, Dark Mode, Animations, Local & Cloud Storage  
-- [GitHub Repository](https://github.com/marwan-gharib/mind-box)
-
-### Another Cool Project
-- Description: A Flutter app that does something awesome  
-- [GitHub Repository](https://github.com/marwan-gharib/another-project)
-
-*(Yes, I name projects creatively… sometimes 😅)*
-
----
-
-## ⚡ Fun Facts About Me
-
-- I pray five times a day, so even my code has discipline 🙏  
-- Coffee is optional, but VSCode is mandatory ☕💻  
-- I dream in Flutter animations sometimes 😴🎨
+<p align="center">
+  <a href="https://www.linkedin.com/in/marwan-gharib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:marwanghareeb@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/marwan-gharib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>  
 
 ---
 
-## 📫 Contact Me
-
-- Email: marwan@example.com  
-- GitHub: [marwan-gharib](https://github.com/marwan-gharib)  
-- LinkedIn: [linkedin.com/in/marwan-gharib](#)  
-
----
-
-<div align="center">
-  <sub>Made with ❤️ and a little bit of coffee by Marwan Gharib</sub>
-</div>
+⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my projects and connect with me.*
