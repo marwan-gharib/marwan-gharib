@@ -17,14 +17,6 @@ I value:
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=tokyonight"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔭 What I build
 - Cross-platform mobile apps with Flutter (Android & iOS)
 - Offline-first apps with local persistence (Sqflite, Hive)
@@ -40,7 +32,7 @@ I value:
 </p>
 
 Key tools & libraries:
-- Languages: Dart, C, C++
+- Languages: Dart, Python, C, C++
 - State management: BLoC, Provider, Riverpod
 - Databases: Firebase (Firestore), Sqflite
 - Tools: Git, GitHub, VS Code, Android Studio
