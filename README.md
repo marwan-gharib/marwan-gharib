@@ -89,13 +89,13 @@ Offline-first productivity app with full CRUD over a local SQLite database. Cust
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Marwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=4e9bf5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marwan-gharib&theme=dark&hide_border=true&background=0d1117&ring=4e9bf5&fire=4e9bf5&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/marwan-gharib)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marwan-gharib&bg_color=0d1117&color=aaaaaa&line=4e9bf5&point=ffffff&area=true&hide_border=true)](https://github.com/marwan-gharib)
 
 </div>
 
