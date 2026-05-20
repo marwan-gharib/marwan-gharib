@@ -1,82 +1,77 @@
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:01234A,100:0175C2&height=210&section=header&text=Marwan%20Gharib&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Flutter%20Developer&descSize=22&descColor=54C5F8&descAlignY=62&animation=fadeIn)](https://github.com/marwan-gharib)
+
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0175C2,100:54C5F8&height=220&section=header&text=Marwan%20Gharib&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer&descAlignY=60&descSize=24&descColor=54C5F8&animation=fadeIn)](https://github.com/marwan-gharib)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=54C5F8&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+production-ready+Flutter+apps+%F0%9F%9A%80;Clean+Architecture+%C2%B7+BLoC%2FCubit+%C2%B7+RESTful+APIs;From+mobile+UI+to+backend+API+%E2%80%94+end+to+end)](https://github.com/marwan-gharib)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=54C5F8&center=true&vCenter=true&width=620&lines=I+don’t+write+Flutter+apps+—+I+design+systems+that+scale.;Clean+code+%7C+Predictable+state+%7C+Zero+silent+failures.;Flutter+frontend.+PHP+backend.+Real+hardware.+End-to-end.)](https://github.com/marwan-gharib)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-gharib/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanghareeb146@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marwan-gharib)
-[![Profile Views](https://komarev.com/ghpvc/?username=marwan-gharib&style=for-the-badge&color=0175C2&label=PROFILE+VIEWS)](https://github.com/marwan-gharib)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanghareeb146@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/marwan-gharib?style=for-the-badge&color=181717&logo=github&logoColor=white)](https://github.com/marwan-gharib)
+[![Profile Views](https://komarev.com/ghpvc/?username=marwan-gharib&style=for-the-badge&color=0175C2&label=VIEWS)](https://github.com/marwan-gharib)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Hey, I'm Marwan 👋
 
-Flutter developer with **4 years of background** in software development — spanning mobile, backend, embedded systems, and machine learning. I build production-quality applications end-to-end: from architecting the Flutter frontend to designing the REST API backend.
+Flutter developer from **Cairo, Egypt** — I build apps that survive production, not just impress in demos.
 
-I'm obsessed with code that's **clean, scalable, and honest** — typed error handling, predictable state, zero silent failures.
+I don’t write Flutter apps — I design systems that scale.
 
-```dart
-final marwan = Developer(
-  name:       'Marwan Gharib',
-  location:   'Cairo, Egypt 🇪🇬',
-  focus:      'Flutter · Mobile Development',
-  languages:  ['Arabic 🇸🇦 (Native)', 'English 🌐 (Basic)'],
-  currentlyLearning: 'Advanced Flutter patterns & backend architecture',
-  openTo:     'Junior Flutter roles & collaborative projects',
-);
-```
+**Architect first, code second.** I focus on typed error pipelines, predictable state, and user-respecting UIs — including proper RTL support, which most apps overlook.
 
-- 🎓 B.Sc. in ICT — New Cairo Technological University *(in progress, expected 2029)*
-- 🏆 Diploma in ML & Embedded Systems — Misr Academy *(graduated with **99.2%**)*
-- 📜 Sprints × Microsoft — Mobile Development Bootcamp *(40 hrs)*
-- 📜 Sprints × Microsoft — AI & Machine Learning Bootcamp *(40 hrs)*
+I’ve shipped across **e-commerce, IoT, and productivity** — owning the full stack from Flutter frontend to PHP backend to real hardware integration.
+
+> *Looking for a team that builds real products — and cares how they’re built.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech & Tools
 
 <div align="center">
 
-**Core**
+**Mobile & Core**
 
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Architecture & State**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-222222?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC%2FCubit-0175C2?style=flat-square)
+![Riverpod](https://img.shields.io/badge/Riverpod-1E88E5?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-222222?style=flat-square)
+
+**Backend & Integrations**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Storage & Navigation**
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-02569B?style=flat-square)
+![GetIt](https://img.shields.io/badge/GetIt-222222?style=flat-square)
 
 **Languages**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Tools & Platforms**
+**Tooling**
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| **Architecture** | Clean Architecture · SOLID Principles · Design Patterns |
-| **State Management** | BLoC · Cubit · Riverpod |
-| **Networking** | RESTful APIs · Dio (custom interceptors) · Firebase FCM |
-| **Storage** | SQLite/Sqflite · SharedPreferences · Flutter Secure Storage |
-| **UI/UX** | GoRouter · Google Maps · Slang i18n · RTL/LTR |
-| **Hardware** | ESP8266 · Microcontrollers · Sensors · Comm Protocols |
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 </div>
 
@@ -84,57 +79,73 @@ final marwan = Developer(
 
 ## 🚀 Featured Projects
 
-### 🛒 [TechNest](https://github.com/marwan-gharib/tech-nest) — Full-Featured E-Commerce App
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> `Flutter` · `BLoC/Cubit` · `Clean Architecture` · `Firebase FCM` · `Google Maps` · `PHP REST API` · `Slang`
+### 🛒 [TechNest](https://github.com/marwan-gharib/tech-nest)
+**Full-stack E-Commerce App**
 
-A **production-ready e-commerce ecosystem** built completely from scratch — mobile app, PHP REST API backend, and an admin panel.
+Production-ready — not a demo.
 
-**What makes it stand out:**
-- 🔔 Real-time push notifications with **Strategy Pattern deep linking** across 3 notification types in all app states (foreground / background / terminated)
-- 🛡️ Typed error pipeline: `NetworkException` → `sealed ApiResult<T>` → Cubit states — **zero silent failures**
-- 🌍 Full bilingual support (**Arabic RTL / English LTR**) via Slang with a `Dio LocaleInterceptor` that forwards locale to the backend
-- 🗺️ Google Maps address picker at checkout
-- 🔐 Auth flow: OTP, forgot password, auto-login with secure token storage
+FCM push system built with the **Strategy Pattern** to handle deep linking across multiple notification types in all app states.
 
-[![App](https://img.shields.io/badge/📱_Mobile_App-181717?style=flat-square&logo=github)](https://github.com/marwan-gharib/tech-nest)
-[![Backend](https://img.shields.io/badge/🔧_PHP_Backend-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/marwan-gharib/tech-nest-backend)
-[![Admin](https://img.shields.io/badge/🖥️_Admin_Panel-0175C2?style=flat-square&logo=flutter&logoColor=white)](https://github.com/marwan-gharib/tech-nest-admin)
+Typed `ApiResult<T>` error pipeline — no silent failures, ever.
 
----
+Full **AR RTL / EN LTR** support, including locale propagation to the backend via a custom Dio interceptor.
 
-### 🏠 [Future Tech](https://github.com/marwan-gharib/future-tech) — IoT Smart Home System
+Three repos, one coherent system:  
+[Mobile App](https://github.com/marwan-gharib/tech-nest) · [PHP Backend](https://github.com/marwan-gharib/tech-nest-backend) · [Admin Panel](https://github.com/marwan-gharib/tech-nest-admin)
 
-> `Flutter` · `BLoC/Cubit` · `Firebase Realtime DB` · `ESP8266` · `speech_to_text`
+`Flutter` `BLoC` `Clean Architecture` `Firebase FCM` `PHP REST API`
 
-**Graduation project** — a complete IoT ecosystem bridging a Flutter app with physical ESP8266 hardware.
+</td>
+<td width="50%" valign="top">
 
-**Highlights:**
-- ⚡ **Bidirectional Firebase sync** — no polling, pure event-driven state. Physical switch toggles instantly reflect in the app
-- 📊 Real-time telemetry: temperature, humidity & MQ9 gas levels via high-fidelity animated gauges
-- 🎙️ **Bilingual voice commands** (Arabic + English) for hands-free control of lights, fans, garage doors & windows
+### 🏠 [Future Tech](https://github.com/marwan-gharib/future-tech)
+**IoT Smart Home System**
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/marwan-gharib/future-tech)
+Flutter app connected to real **ESP8266 hardware** via Firebase Realtime DB — fully bidirectional and event-driven (zero polling).
 
----
+A physical switch reflects in the app in milliseconds.
 
-### 🔐 [CipherX](https://github.com/marwan-gharib/cipher-x) — Cryptography Visualizer
+Live telemetry (temperature, humidity, gas) + bilingual voice commands (AR/EN) for hands-free control.
 
-> `Flutter` · `BLoC/Cubit` · `Clean Architecture` · `Slang`
+`Flutter` `Firebase Realtime DB` `BLoC` `ESP8266` `speech_to_text`
 
-Interactive visualization of **Caesar & Vigenère** encryption with animated step-by-step breakdowns. Built a custom **glassmorphism design system** from scratch with bilingual support and persistent Light/Dark theme.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/marwan-gharib/cipher-x)
+### 🔐 [CipherX](https://github.com/marwan-gharib/cipher-x)
+**Cryptography Visualizer**
 
----
+Encryption made visible.
 
-### 📝 [Mind Box](https://github.com/marwan-gharib/mind-box) — Notes & Tasks Manager
+Step-by-step animated breakdowns of Caesar & Vigenère ciphers.
 
-> `Flutter` · `BLoC` · `Clean Architecture` · `Sqflite`
+Custom-built design system: glassmorphism UI, bilingual support, and persistent Light/Dark theming.
 
-Offline-first productivity app with full CRUD over a local **SQLite** database. Custom animated navigation and fluid page transitions — no internet required.
+`Flutter` `BLoC` `Clean Architecture` `Slang i18n`
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/marwan-gharib/mind-box)
+</td>
+<td width="50%" valign="top">
+
+### 📝 [Mind Box](https://github.com/marwan-gharib/mind-box)
+**Notes & Tasks Manager**
+
+Offline-first productivity app — zero reliance on external services.
+
+Full local CRUD with SQLite.
+
+Custom navigation and transitions designed to feel smooth and native.
+
+`Flutter` `BLoC` `Clean Architecture` `Sqflite`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -142,56 +153,32 @@ Offline-first productivity app with full CRUD over a local **SQLite** database. 
 
 <div align="center">
 
-<a href="https://github.com/marwan-gharib">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=0175C2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=c9d1d9&langs_count=6"/>
-</a>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=0175C2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=c9d1d9&langs_count=6"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marwan-gharib&theme=dark&hide_border=true&background=0d1117&ring=54C5F8&fire=0175C2&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff)](https://github.com/marwan-gharib)
+[![Streak](https://streak-stats.demolab.com?user=marwan-gharib&theme=dark&hide_border=true&background=0d1117&ring=54C5F8&fire=0175C2&currStreakLabel=ffffff&sideLabels=555555&dates=555555&currStreakNum=ffffff&sideNums=aaaaaa)](https://github.com/marwan-gharib)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marwan-gharib&bg_color=0d1117&color=54C5F8&line=0175C2&point=ffffff&area=true&hide_border=true)](https://github.com/marwan-gharib)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marwan-gharib&bg_color=0d1117&color=54C5F8&line=0175C2&point=54C5F8&area=true&area_color=012A4A&hide_border=true&radius=6)](https://github.com/marwan-gharib)
 
 </div>
 
 ---
 
-## 🏅 Certifications
+## 📫 Let's connect
 
 <div align="center">
 
-| Certification | Issuer | Year | ID |
-|---|---|---|---|
-| 📱 Mobile Development Bootcamp | Sprints × Microsoft | 2025 | `SPR-90LHA6` |
-| 🤖 AI & Machine Learning Bootcamp | Sprints × Microsoft | 2025 | `SPR-8BH37E` |
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/marwan--gharib-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-gharib/)
+&nbsp;
+[![Email](https://img.shields.io/badge/marwanghareeb146@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marwanghareeb146@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **Junior Flutter Developer** opportunities.
-If you're building something meaningful — let's talk.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-gharib/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanghareeb146@gmail.com)
-
-📞 +20 104 466 1513 &nbsp;|&nbsp; +20 115 585 1590
-
-</div>
-
----
-
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:54C5F8,50:0175C2,100:0d1117&height=100&section=footer)](https://github.com/marwan-gharib)
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,60:01234A,100:0d1117&height=110&section=footer)](https://github.com/marwan-gharib)
