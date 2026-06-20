@@ -153,9 +153,9 @@ Custom navigation and transitions designed to feel smooth and native.
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-eta-two-43.vercel.app/api?username=marwan-gharib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=0175C2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats-eta-two-43.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=c9d1d9&langs_count=6"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=marwan-gharib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&icon_color=0175C2&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwan-gharib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8&text_color=c9d1d9&langs_count=6"/>
 
 <br/>
 
